@@ -27,14 +27,6 @@ class BinshopsPost extends Model
     ];
 
     /**
-     * @var array
-     */
-    public $fillable = [
-        'is_published',
-        'posted_at',
-    ];
-
-    /**
      * The associated post translations
      * @return \Illuminate\Database\Eloquent\Relations\HasOne
      */
