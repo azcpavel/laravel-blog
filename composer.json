@@ -1,5 +1,5 @@
 {
-    "name": "binshops/laravel-blog",
+    "name": "exceptio/laravel-blog",
     "keywords": [
         "laravel",
         "blog",
@@ -26,6 +26,12 @@
             "homepage": "https://github.com/binshops/laravel-blog",
             "role": "owner",
             "email": "contact@binshops.com"
+        },
+        {
+            "name": "Ahsan Zahid Chowdhury",
+            "homepage": "https://github.com/binshops/laravel-blog",
+            "role": "contributor",
+            "email": "azc.pavel@gmail.com"
         }
     ],
     "require": {
